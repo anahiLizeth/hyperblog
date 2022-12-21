@@ -4,3 +4,10 @@ body{
     color: pink;
 
 }
+#cabecera{
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-shadow: #fff 1px 1px 1px;
+}
